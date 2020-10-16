@@ -1,6 +1,8 @@
-#Hyperlapse Reality
-#Mixed Reality (VR) Hyperlapse Photography
-#Project Overview
+Hyperlapse Reality
+
+Mixed Reality (VR) Hyperlapse Photography
+
+Project Overview
 
 Hyperlapse reality at its core concept bridges the reality of hyperlapse photography (in the real world) and virtually built cities namely Wellington City, NZ. Having a vast collection of Hyperlases of Wellington I want to create an experience that lets the viewer move through a virtual space in time while still having the connected real city reality from the photography. GIS data that somewhat accurately constructs a virtual Wellington city via data visualisation in 3D rendering software allows me to place these elements together to create such an experience.
 
